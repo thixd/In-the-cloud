@@ -1,0 +1,16 @@
+.Title {
+    color:#24a6fc;
+    font-size: 35px; 
+    font-weight: bold; 
+    line-height: 44px; 
+    margin: 0 0 12px; 
+    text-align: center;
+}
+.SmallTitle{
+    color:#24a6fc;
+    font-size: 25px; 
+    font-weight: bold; 
+    line-height: 44px; 
+    margin: 0 0 12px; 
+    text-align: center;
+}
