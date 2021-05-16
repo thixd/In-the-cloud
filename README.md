@@ -5,7 +5,7 @@ In the cloud is the online storage application that allows user to upload/store/
 The project is depeveloped on ReactJS and Firebase for authentication process and storage files.
 
 ## Before running
-FirebaseConfig is need to run the project. Create new project in Firebase and get firebase config.
+FirebaseConfig is needed to run the project. Create new project in Firebase and get firebase config.
 These firebase confid should be stored at /inthecloud/.env.local
 The format of the file should look like the below:
 
