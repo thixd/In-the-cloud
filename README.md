@@ -21,14 +21,14 @@ process.env.REACT_APP_FIREBASE_MEASUREMENT_ID = measurement_id
 Simply: npm start
 
 ## Screenshots
-When first log in to the app, there is a log in page
+When first log in to the app, there is a log in page<br />
 ![Alt text](/screenshot/Login.png "LogIn Page")<br />
-If user dont have a account, they can sign up with email and password. 
-Else if forget password. The reset password option is provided
+If user dont have a account, they can sign up with email and password. <br />
+Else if forget password. The reset password option is provided<br />
 ![Alt text](/screenshot/ResetPassword.PNG "Reset Password Page")<br />
-When successfully login, homepage will look like the below.
-User can create new folder in cloud by clicking "New folder".
-Upload new files by clicking "Upload files"
+When successfully login, homepage will look like the below.<br />
+User can create new folder in cloud by clicking "New folder".<br />
+Upload new files by clicking "Upload files"<br />
 ![Alt text](/screenshot/HomePage.PNG "Home Page")<br />
 
 Credit to Youtube: Web Dev Simplifier
