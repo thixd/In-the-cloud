@@ -34,4 +34,4 @@ The files can be classified into folders, folders in folders and shown the path 
 
 
 Credit to Youtube: Web Dev Simplifier <br/>
-AppIcon: Flaticon
+App Icon: Flaticon
