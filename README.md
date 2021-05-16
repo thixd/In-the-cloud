@@ -30,3 +30,6 @@ User can create new folder in cloud by clicking "New folder". <br/>
 Upload new files by clicking "Upload files" <br/>
 The files can be classified into folders, folders in folders and shown the path as breadcrumb <br/>
 ![Alt text](/screenshot/HomePage.PNG "Home Page") <br/>
+
+Credit to Youtube: Web Dev Simplified <br/>
+App Icon: Flaticon
