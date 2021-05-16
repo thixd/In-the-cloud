@@ -33,5 +33,5 @@ The files can be classified into folders, folders in folders and shown the path 
 
 
 
-Credit to Youtube: Web Dev Simplifier <br/>
+Credit to Youtube: Web Dev Simplified <br/>
 App Icon: Flaticon
