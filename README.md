@@ -7,7 +7,7 @@ The project is depeveloped on ReactJS, Bootstrap and Firebase for authentication
 ## Before running
 FirebaseConfig is needed to run the project. Create new project in Firebase and get firebase config.
 These firebase confid should be stored at /inthecloud/.env.local
-The format of the file should look like the below:
+The format of the file should look like the below: <br/>
 process.env.REACT_APP_FIREBASE_API_KEY = api_key <br/>
 process.env.REACT_APP_FIREBASE_AUTH_DOMAIN = auth_domain <br/>
 process.env.REACT_APP_FIREBASE_PROJECT_ID = project_id <br/>
