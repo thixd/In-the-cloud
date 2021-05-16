@@ -22,14 +22,14 @@ Simply: npm start
 
 ## Screenshots
 When first log in to the app, there is a log in page
-![Alt text](/screenshot/Login.png "LogIn Page")
+![Alt text](/screenshot/Login.png "LogIn Page")<br />
 If user dont have a account, they can sign up with email and password. 
 Else if forget password. The reset password option is provided
-![Alt text](/screenshot/ResetPassword.PNG "Reset Password Page")
+![Alt text](/screenshot/ResetPassword.PNG "Reset Password Page")<br />
 When successfully login, homepage will look like the below.
 User can create new folder in cloud by clicking "New folder".
 Upload new files by clicking "Upload files"
-![Alt text](/screenshot/HomePage.PNG "Home Page")
+![Alt text](/screenshot/HomePage.PNG "Home Page")<br />
 
 Credit to Youtube: Web Dev Simplifier
 AppIcon: Flaticon
